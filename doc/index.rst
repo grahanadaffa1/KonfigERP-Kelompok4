@@ -1,32 +1,25 @@
 ==============
-print_contact
+print_partner_info
 ==============
 
-This module is usefull to print the list of your contacts, check-in reports or full-pages that describe your clients.
+The main function of this module is to generate a pdf file regarding a partner contact and their address for the purpose of delivery service.
 
-Usage
+Installation
 =====
 Go to "Settings" - Apps without any filters. Type "print_contact" into the search box.
 
-Odoo version 12
+Usage
+=====
+Go to the "Contact" app and select a partner. The "Print Partner Info" option will appear above the partner information.
 
 Credits
 =======
+This module is based on https://github.com/YvanDotet/print_contact
 
 Authors
 ~~~~~~~
-
-* Yvan Dotet
+* Kelompok 4 Konfigurasi ERP
 
 Maintainers
 ~~~~~~~~~~~
-
-* This module is maintained by Yvan Dotet.
-
-Contact
-~~~~~~~
-
-* Mail address of Yvan Dotet : Yvandotet@yahoo.fr
-* website : 
-	1) https://github.com/YvanDotet/print_contact
-	2) https://be.linkedin.com/in/yvan-dotet-19ba67135
+* Kelompok 4 Konfigurasi ERP
