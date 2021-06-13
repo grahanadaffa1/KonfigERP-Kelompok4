@@ -1,9 +1,0 @@
-from odoo import api, fields, models
-
-
-class extend_contact(models.Model):
-    _inherit = 'res.partner'
-
-    @api.multi
-    def print_contact_info(self):
-        return self.env.ref('print_contact.action_report_page').report_action(self)

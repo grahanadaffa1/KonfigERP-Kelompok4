@@ -9,13 +9,13 @@
         'license':'AGPL-3',
         'support': 'ptkita4uierp20202021@gmail.com',
         'website':'https://github.com/grahanadaffa1/KonfigERP-Kelompok4',
-        
+
         'data':[
             'views/print_buttons.xml',
-            
-            'report/print_contact_info.xml',
+
+            'report/print_page.xml',
             ],
-         
+
         'images': ['images/icon.png'],
 }
 
